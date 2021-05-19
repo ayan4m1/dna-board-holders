@@ -1,7 +1,6 @@
 # DNA Board Holders
 
 This repository provides board holders for the Evolv DNA series of DC-DC converters.
-
 ## Supported Boards
 
 | Model | Status      |
@@ -12,6 +11,14 @@ This repository provides board holders for the Evolv DNA series of DC-DC convert
 | 75C   | Complete    |
 | 250C  | Complete    |
 | 100C  | Not started |
+
+### 75C
+
+![75C](./img/75c.png)
+
+### 250C
+
+![250C](./img/250c.png)
 
 ## Printing
 
